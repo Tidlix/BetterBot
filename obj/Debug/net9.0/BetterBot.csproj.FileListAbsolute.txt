@@ -40,3 +40,4 @@ D:\OneDrive\Desktop\tmp\BetterBot\obj\Debug\net9.0\refint\BetterBot.dll
 D:\OneDrive\Desktop\tmp\BetterBot\obj\Debug\net9.0\BetterBot.pdb
 D:\OneDrive\Desktop\tmp\BetterBot\obj\Debug\net9.0\BetterBot.genruntimeconfig.cache
 D:\OneDrive\Desktop\tmp\BetterBot\obj\Debug\net9.0\ref\BetterBot.dll
+D:\OneDrive\Desktop\tmp\BetterBot\obj\Debug\net9.0\BetterBot.sourcelink.json

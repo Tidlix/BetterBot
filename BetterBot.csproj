@@ -11,7 +11,7 @@
     <PackageReference Include="DSharpPlus" Version="5.0.0-nightly-02529" />
     <PackageReference Include="DSharpPlus.Commands" Version="5.0.0-nightly-02529" />
     <PackageReference Include="DSharpPlus.Interactivity" Version="5.0.0-nightly-02529" />
-    <PackageReference Include="Npgsql" Version="3.2.2" />
+    <PackageReference Include="Npgsql" Version="9.0.3" />
   </ItemGroup>
 
 </Project>
