@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\OneDrive\\Desktop\\tmp\\BetterBot\\BetterBot.csproj": {}
+    "D:\\Coding\\Git\\Repos\\BetterBot\\BetterBot.csproj": {}
   },
   "projects": {
-    "D:\\OneDrive\\Desktop\\tmp\\BetterBot\\BetterBot.csproj": {
+    "D:\\Coding\\Git\\Repos\\BetterBot\\BetterBot.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\OneDrive\\Desktop\\tmp\\BetterBot\\BetterBot.csproj",
+        "projectUniqueName": "D:\\Coding\\Git\\Repos\\BetterBot\\BetterBot.csproj",
         "projectName": "BetterBot",
-        "projectPath": "D:\\OneDrive\\Desktop\\tmp\\BetterBot\\BetterBot.csproj",
+        "projectPath": "D:\\Coding\\Git\\Repos\\BetterBot\\BetterBot.csproj",
         "packagesPath": "C:\\Users\\theod\\.nuget\\packages\\",
-        "outputPath": "D:\\OneDrive\\Desktop\\tmp\\BetterBot\\obj\\",
+        "outputPath": "D:\\Coding\\Git\\Repos\\BetterBot\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

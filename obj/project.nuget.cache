@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sj9zNpLU2l8=",
+  "dgSpecHash": "mH27TIjo85I=",
   "success": true,
-  "projectFilePath": "D:\\OneDrive\\Desktop\\tmp\\BetterBot\\BetterBot.csproj",
+  "projectFilePath": "D:\\Coding\\Git\\Repos\\BetterBot\\BetterBot.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\theod\\.nuget\\packages\\communitytoolkit.highperformance\\8.4.0\\communitytoolkit.highperformance.8.4.0.nupkg.sha512",
     "C:\\Users\\theod\\.nuget\\packages\\concurrenthashset\\1.3.0\\concurrenthashset.1.3.0.nupkg.sha512",
