@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("BetterBot")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+ddd40f4d1d497ff345656a0acc0bb8b171272c95")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fb7e4cc571dcee99ea10557976a04a8fd581517a")]
 [assembly: System.Reflection.AssemblyProductAttribute("BetterBot")]
 [assembly: System.Reflection.AssemblyTitleAttribute("BetterBot")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

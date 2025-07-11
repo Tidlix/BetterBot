@@ -31,6 +31,7 @@ namespace BetterBot {
                 extension.AddCommands([
                     typeof(TestCommands),
                     typeof(NoteCommands),
+                    typeof(DevCommands)
                 ]);
 
                 SlashCommandProcessor slashCommandProcessor = new(new SlashCommandConfiguration()
